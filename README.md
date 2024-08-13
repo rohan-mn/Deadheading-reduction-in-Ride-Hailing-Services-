@@ -1,6 +1,3 @@
-Here’s a sample README file for your GitHub repository:
-
----
 
 # Optimal Driver-Passenger Assignment Using Ant Colony Optimization
 
